@@ -5,4 +5,4 @@
 - self taught developer  
 - LMAO about 99% of my projects are private so gl here are my stats from the projects i do have public:
   
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atticuston&theme=midnight-purple" alt="Top Langs">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atticuston&theme=midnight-purple" alt="Top Langs">
