@@ -1,5 +1,5 @@
 <img src="banner.gif" alt="banner">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=1000&color=7B7B7B&width=435&lines=profession;masochist+(enjoys+reverse+engineering)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=1000&color=7B7B7B&width=435&lines=professional dumbass;masochist+(enjoys+reverse+engineering)" alt="Typing SVG" /></a>
 
 ### About me
 
