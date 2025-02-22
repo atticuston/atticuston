@@ -1,6 +1,5 @@
 <img src="banner.gif" alt="banner">
-[[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=fullstack+developer;AMAZING+reverse+engineer;elixir+enthusiast" alt="Typing SVG" /></a>
-](https://readme-typing-svg.demolab.com/demo/?font=Pacifico&size=25&color=626262&lines=professional+dumbass;probably+a+masochist+(enjoys+reverse+engineering))](https://readme-typing-svg.demolab.com/demo/?font=Pacifico&size=25&color=626262&lines=professional+dumbass;probably+a+masochist+(enjoys+reverse+engineering))
+[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&pause=1000&color=626262&width=435&lines=professional+dumbass;probably+a+masochist+(enjoys+reverse+engineering)" alt="Typing SVG" /></a>
 
 ### About me
 
